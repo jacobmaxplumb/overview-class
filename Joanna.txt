@@ -1,0 +1,6 @@
+Let greeting = {
+    name: "Joanna"
+    nationality: "Dual-Citizenship"
+    Schools: "PSC, PAC, BloomTech"
+    Languages: "English, Spanish, French, Creole, Arabic"
+},
